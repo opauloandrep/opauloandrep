@@ -1,25 +1,20 @@
+
 <h1 align="left">👨‍💻 Paulo André</h1>
 
 <h3 align="left">
-  Desenvolvedor Web | Estudante de Análise e Desenvolvimento de Sistemas
+  Desenvolvedor Full Stack | Estudante de Análise e Desenvolvimento de Sistemas
 </h3>
 
 <p align="left">
-  Sou estudante de Análise e Desenvolvimento de Sistemas (ADS),
-  interessado em desenvolvimento web, engenharia de software
-  e construção de soluções tecnológicas.
+  Sou estudante de Análise e Desenvolvimento de Sistemas (ADS), com foco em desenvolvimento Full Stack, engenharia de software e criação de soluções tecnológicas.
 </p>
 
 <p align="left">
-  Atualmente desenvolvo projetos pessoais e acadêmicos,
-  buscando aprimorar minhas habilidades em programação,
-  desenvolvimento de interfaces e construção de aplicações web.
+  Desenvolvo projetos pessoais e acadêmicos, utilizando diferentes tecnologias para construir aplicações web, desenvolver interfaces e implementar funcionalidades tanto no Front-end quanto no Back-end.
 </p>
 
 <p align="left">
-  Utilizo este GitHub para compartilhar meus projetos,
-  registrar minha evolução como desenvolvedor e colocar
-  em prática meus conhecimentos.
+  Utilizo este GitHub para compartilhar projetos, documentar minha evolução profissional, explorar novas tecnologias e aplicar boas práticas de desenvolvimento de software.
 </p>
 
 ---
@@ -42,17 +37,17 @@
 
 ---
 
-<h3>📌 Projetos em desenvolvimento</h3>
+<h3>📌 Projetos em Desenvolvimento</h3>
 
-- **SupriConnect:** desenvolvimento de uma aplicação
-  para gestão de compras e almoxarifado.
-- **Projetos Web:** criação de sites e aplicações
-  utilizando tecnologias modernas.
+- **SupriConnect:** aplicação voltada à gestão de compras e almoxarifado.
+- **Projetos Web:** desenvolvimento de sites e aplicações web utilizando tecnologias modernas.
 
 ---
 
 <h3>🌐 Conecte-se comigo</h3>
 
-<a href="https://www.linkedin.com/in/paulo-andr%C3%A9-5197582ab/">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-</a>
+<p align="left">
+  <a href="https://www.linkedin.com/in/paulo-andr%C3%A9-5197582ab/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+</p>
