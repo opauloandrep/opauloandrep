@@ -34,4 +34,23 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" width="40" alt="Tailwind CSS"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="40" alt="Java"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" width="40" alt="MySQL"/>
-  <img src="
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="40" alt="Git"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" width="40" alt="GitHub"/>
+</p>
+
+---
+
+<h3>📌 Projetos em Destaque</h3>
+
+- **SupriConnect:** plataforma voltada à gestão de compras e almoxarifado.
+- **Projetos Web:** aplicações e sites modernos desenvolvidos com tecnologias de ponta.
+
+---
+
+<h3>🌐 Conecte-se comigo</h3>
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/paulo-andr%C3%A9-5197582ab/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+</p>
