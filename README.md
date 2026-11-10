@@ -1,5 +1,8 @@
-
-<h1 align="left">👨‍💻 Paulo André</h1>
+<h1 align="left">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&pause=1000&color=58A6FF&center=false&vCenter=true&width=500&lines=%F0%9F%90%A7+Paulo+Andr%C3%A9;Desenvolvedor+Full+Stack;Estudante+de+ADS" alt="Typing SVG" />
+  </a>
+</h1>
 
 <h3 align="left">
   Desenvolvedor Full Stack | Estudante de Análise e Desenvolvimento de Sistemas
