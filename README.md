@@ -5,24 +5,24 @@
 </h1>
 
 <h3 align="left">
-  Full Stack Developer | Systems Analysis & Development
+  Desenvolvedor Full Stack | Análise e Desenvolvimento de Sistemas
 </h3>
 
 <p align="left">
-  I am a Full Stack Developer focused on software engineering, web application development, and building scalable technological solutions.
+  Desenvolvedor Full Stack focado em engenharia de software, desenvolvimento de aplicações web e construção de soluções tecnológicas escaláveis.
 </p>
 
 <p align="left">
-  I build modern personal and enterprise applications, working across both Front-end and Back-end to deliver robust interfaces and high-performance functionality.
+  Desenvolvo aplicações modernas, pessoais e empresariais, atuando no Front-end e no Back-end para entregar interfaces robustas e funcionalidades de alta performance.
 </p>
 
 <p align="left">
-  I use GitHub to showcase my projects, document my technical growth, explore new technologies, and apply software engineering best practices.
+  Utilizo o GitHub para apresentar meus projetos, documentar minha evolução técnica, explorar novas tecnologias e aplicar as melhores práticas da engenharia de software.
 </p>
 
 ---
 
-<h3>🚀 Tech Stack & Tools</h3>
+<h3>🚀 Tecnologias e Ferramentas</h3>
 
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="40" alt="HTML5"/>
@@ -34,23 +34,4 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" width="40" alt="Tailwind CSS"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="40" alt="Java"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" width="40" alt="MySQL"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="40" alt="Git"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" width="40" alt="GitHub"/>
-</p>
-
----
-
-<h3>📌 Featured Projects</h3>
-
-- **SupriConnect:** Procurement and inventory management platform.
-- **Web Projects:** Modern web applications and sites built with cutting-edge tech stacks.
-
----
-
-<h3>🌐 Connect with me</h3>
-
-<p align="left">
-  <a href="https://www.linkedin.com/in/paulo-andr%C3%A9-5197582ab/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-</p>
+  <img src="
